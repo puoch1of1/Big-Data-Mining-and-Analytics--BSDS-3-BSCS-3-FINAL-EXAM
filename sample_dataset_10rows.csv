@@ -1,0 +1,11 @@
+id,timestamp,text,sentiment,likes,retweets,topic_category,author_id,platform,hashtags,word_count,char_count
+post_000001,2025-01-21 03:01:00,Breaking: Major Company announces game,neutral,299,28,sports,user_0226,reddit,,5,38
+post_000002,2025-01-19 08:51:00,So proud of success! Hard work pays off,positive,285,39,politics,user_0128,reddit,,8,39
+post_000003,2025-01-03 17:18:00,Interesting discussion about news happening now,neutral,201,15,general,user_0687,reddit,,6,47
+post_000004,2025-01-23 21:41:00,"Love this new place, best item in town! #recommended",positive,187,9,general,user_0217,reddit,recommended,9,52
+post_000005,2025-01-07 20:31:00,"Disappointed with the help, expected better",negative,24,5,entertainment,user_0643,twitter,,6,43
+post_000006,2025-01-26 21:27:00,Update on topic: details,neutral,154,34,technology,user_0781,twitter,,4,24
+post_000007,2025-01-17 03:55:00,Report shows decrease for topic,neutral,60,7,sports,user_0750,reddit,,5,31
+post_000008,2025-01-27 02:48:00,Breaking: Major Company announces vote,neutral,284,30,politics,user_0124,twitter,,5,38
+post_000009,2025-01-08 02:21:00,Weather is perfect for a walk today #blessed,positive,326,13,general,user_0741,reddit,blessed,8,44
+post_000010,2025-01-08 15:51:00,"Traffic is terrible today, stuck for an hour already #frustrated",negative,41,7,politics,user_0195,reddit,frustrated,10,64
